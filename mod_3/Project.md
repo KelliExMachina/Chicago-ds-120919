@@ -1,4 +1,4 @@
-<b> PROJECT GOAL:
+<b> PROJECT GOAL: </b>
 
 The goal of this project is to test your ability to gather information from a real-world database and use your knowledge of statistical analysis and hypothesis testing to generate analytical insights that can be meaningful to the company/stakeholder.
 
