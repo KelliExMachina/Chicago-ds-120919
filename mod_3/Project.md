@@ -101,3 +101,10 @@ test_if_matplotlib_object test_title test_xaxis test_yaxis If any requirements a
 Perform additional data cleanup, visualization, and/or feature selection Submit an improved version Meet again for another Project Presentation What won't happen:
 
 You won't be yelled at, belittled, or scolded You won't be put on the spot without support There's nothing you can do to instantly fail or blow it
+
+
+
+Project Partners:
+1. Yasser and Dan
+2. Nick, Jeff and Ibby
+
