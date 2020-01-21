@@ -6,7 +6,7 @@ Choosing your data In this project, you are free to choose any data that you wou
 
 Stakeholders Picking an audience at the beginning of your project helps you define the scope of the project. Once a stakeholder is picked, keep them in mind as you’re generating your statistical analysis. When translating statistics for a non-technical audience, be sure you are answering questions that are relevant to the stakeholder and being clear with the limitations of your findings.
 
-Project Requirements: Data Source For this project you are required to obtain data from:
+<b> Project Requirements: </b> Data Source For this project you are required to obtain data from:
 
 At least one API source Optional data from a CSV can be merged into your dataset Statistical Analysis Requirements The goal of this project is to perform hypothesis testing on the collected data. For the project you will be required to: Come up with 4 separate hypotheses to test (each test consisting of a clearly identified null and alternative hypothesis). Explain what test (e.g. one-tailed t-test) you are using and why. Visualization Requirements As a part of presenting your results to stakeholders you should include: 4 meaningful visualizations related to your data exploration or hypothesis testing 2 Project Deliverables Your team is expected to use git as a collaborative tool for this project to manage version control and history. All documents must be contained in a git repository that you create. You should use the templates provided by instructors here.
 
@@ -18,6 +18,7 @@ a. Must include short, descriptive commit messages
 
 b. Each project member should commit at least once
 
+
 Technical Jupyter Notebook- This notebook is targeted to a technical audience and should contain the following:
 
 a. Documentation of where the data came from- API and any additional CSV sources
@@ -28,6 +29,7 @@ c. Code should follow Pep8 standards
 
 d. Custom functions should be stored in a .py file and imported whenever possible
 
+
 Narrative Jupyter Notebook- This notebook is targeted to a non-technical audience and should contain the following:
 
 a. The purpose of your analysis and why it matters
@@ -37,6 +39,7 @@ b. 4 well-annotated visualizations created using Matplotlib/Seaborn
 c. Results of your 4 hypothesis tests
 
 d. At least four actionable insights based on the results of your hypothesis tests
+
 
 3 Python files- You should include these .py files using the templates provided in your GitHub repo and the functions in them in your technical notebook. The three files should be called:
 
@@ -74,7 +77,7 @@ d. Vocabulary targeted to a non-technical audience, avoid jargon
 
 e. No more than 10 slides
 
-Project schedule:
+<b>Project schedule:</b>
 
 01/21 Tuesday - Project Assignment
 
@@ -92,9 +95,7 @@ Afternoon project presentation to the class Science fair open to staff and fello
 
 You can expect to see the following
 
-Clean Data Tests:
-
-test_no_null_values test_no_duplicates test_cells_no_brackets test_column_name_lowercase test_column_name_whitespace test_if_dataframe Visualization Tests:
+<b> Clean Data Tests: </b>
 
 test_if_matplotlib_object test_title test_xaxis test_yaxis If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
 
@@ -103,8 +104,8 @@ Perform additional data cleanup, visualization, and/or feature selection Submit 
 You won't be yelled at, belittled, or scolded You won't be put on the spot without support There's nothing you can do to instantly fail or blow it
 
 
+<b>Project Partners:</b>
 
-Project Partners:
 1. Yasser and Dan
 2. Nick, Jeff and Ibby
 
